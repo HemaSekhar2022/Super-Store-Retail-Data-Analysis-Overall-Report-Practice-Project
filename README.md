@@ -1,2 +1,1 @@
-# Super-Store-Retail-Data-Analysis-Practice-Project
-Retail Super store Data Overall Analysis &amp; Report
+Exploreing Tableau charts based on retail store data
